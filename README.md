@@ -178,6 +178,7 @@
 | [0002-add-two-numbers](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/0009-palindrome-number) |
 | [0048-rotate-image](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/0048-rotate-image) |
+| [0067-add-binary](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/0067-add-binary) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0202-happy-number](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/0202-happy-number) |
 | [0258-add-digits](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/0258-add-digits) |
@@ -192,6 +193,7 @@
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0049-group-anagrams](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/0125-valid-palindrome) |
 | [0205-isomorphic-strings](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/0242-valid-anagram) |
@@ -219,6 +221,7 @@
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/0054-spiral-matrix) |
+| [0067-add-binary](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/0258-add-digits) |
 | [0867-transpose-matrix](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/0867-transpose-matrix) |
 | [2109-adding-spaces-to-a-string](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/2109-adding-spaces-to-a-string) |
@@ -301,4 +304,8 @@
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
