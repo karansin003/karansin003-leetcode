@@ -13,6 +13,7 @@
 | [0238-product-of-array-except-self](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0560-subarray-sum-equals-k](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0705-design-hashset](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/0706-design-hashmap) |
 | [0867-transpose-matrix](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/0867-transpose-matrix) |
@@ -97,6 +98,7 @@
 | [0242-valid-anagram](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0387-first-unique-character-in-a-string](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [0560-subarray-sum-equals-k](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0705-design-hashset](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/0706-design-hashmap) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
@@ -190,6 +192,7 @@
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/0238-product-of-array-except-self) |
+| [0560-subarray-sum-equals-k](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/0560-subarray-sum-equals-k) |
 ## Tree
 |  |
 | ------- |
