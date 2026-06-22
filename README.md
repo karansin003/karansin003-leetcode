@@ -26,6 +26,7 @@
 | [0141-linked-list-cycle](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/0160-intersection-of-two-linked-lists) |
+| [0206-reverse-linked-list](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/0328-odd-even-linked-list) |
 | [0707-design-linked-list](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/0707-design-linked-list) |
@@ -52,4 +53,5 @@
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/0021-merge-two-sorted-lists) |
+| [0206-reverse-linked-list](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
