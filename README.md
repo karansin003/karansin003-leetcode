@@ -87,6 +87,7 @@
 | [0019-remove-nth-node-from-end-of-list](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/0027-remove-element) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0042-trapping-rain-water](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/0061-rotate-list) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
@@ -180,6 +181,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/0020-valid-parentheses) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0049-group-anagrams](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/0125-valid-palindrome) |
 | [0205-isomorphic-strings](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/0205-isomorphic-strings) |
@@ -281,4 +283,8 @@
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/0219-contains-duplicate-ii) |
+## String Matching
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->
