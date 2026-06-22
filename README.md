@@ -6,6 +6,7 @@
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/0027-remove-element) |
+| [0036-valid-sudoku](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/0036-valid-sudoku) |
 | [0042-trapping-rain-water](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/0049-group-anagrams) |
@@ -108,6 +109,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0138-copy-list-with-random-pointer](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/0138-copy-list-with-random-pointer) |
@@ -205,6 +207,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/0054-spiral-matrix) |
 | [0867-transpose-matrix](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/0867-transpose-matrix) |
