@@ -10,6 +10,7 @@
 | [0054-spiral-matrix](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/0054-spiral-matrix) |
 | [0217-contains-duplicate](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0705-design-hashset](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/0706-design-hashmap) |
 | [0867-transpose-matrix](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/0867-transpose-matrix) |
 | [1019-next-greater-node-in-linked-list](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/1019-next-greater-node-in-linked-list) |
@@ -52,6 +53,7 @@
 | [0237-delete-node-in-a-linked-list](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/0328-odd-even-linked-list) |
 | [0445-add-two-numbers-ii](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/0445-add-two-numbers-ii) |
+| [0705-design-hashset](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/0706-design-hashmap) |
 | [0707-design-linked-list](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/0707-design-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/0876-middle-of-the-linked-list) |
@@ -85,12 +87,14 @@
 | [0242-valid-anagram](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0387-first-unique-character-in-a-string](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [0705-design-hashset](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/0706-design-hashmap) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
 ## Design
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/0155-min-stack) |
+| [0705-design-hashset](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/0706-design-hashmap) |
 | [0707-design-linked-list](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/0707-design-linked-list) |
 ## Recursion
@@ -155,6 +159,7 @@
 ## Hash Function
 |  |
 | ------- |
+| [0705-design-hashset](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/0706-design-hashmap) |
 ## Number Theory
 |  |
