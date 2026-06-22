@@ -36,6 +36,7 @@
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1833-maximum-ice-cream-bars](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/1833-maximum-ice-cream-bars) |
 | [2109-adding-spaces-to-a-string](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/2109-adding-spaces-to-a-string) |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2348-number-of-zero-filled-subarrays](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/2348-number-of-zero-filled-subarrays) |
 | [2540-minimum-common-value](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/2540-minimum-common-value) |
 | [2553-separate-the-digits-in-an-array](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/2553-separate-the-digits-in-an-array) |
@@ -45,6 +46,7 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/0011-container-with-most-water) |
 | [1833-maximum-ice-cream-bars](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/1833-maximum-ice-cream-bars) |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 ## Sorting
 |  |
 | ------- |
@@ -56,6 +58,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0692-top-k-frequent-words](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/0692-top-k-frequent-words) |
 | [1833-maximum-ice-cream-bars](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/1833-maximum-ice-cream-bars) |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2784-check-if-array-is-good](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/2784-check-if-array-is-good) |
 ## Counting Sort
 |  |
