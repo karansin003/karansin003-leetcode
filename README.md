@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/0054-spiral-matrix) |
 | [0217-contains-duplicate](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/0217-contains-duplicate) |
@@ -54,6 +55,7 @@
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0042-trapping-rain-water](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/0061-rotate-list) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0141-linked-list-cycle](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/0141-linked-list-cycle) |
@@ -90,6 +92,7 @@
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/0042-trapping-rain-water) |
 | [0155-min-stack](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/0234-palindrome-linked-list) |
 | [0445-add-two-numbers-ii](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/0445-add-two-numbers-ii) |
@@ -97,6 +100,7 @@
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/0042-trapping-rain-water) |
 | [1019-next-greater-node-in-linked-list](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/1019-next-greater-node-in-linked-list) |
 ## Math
 |  |
@@ -136,4 +140,8 @@
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/0258-add-digits) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
