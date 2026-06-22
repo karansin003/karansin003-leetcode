@@ -18,6 +18,7 @@
 | [1019-next-greater-node-in-linked-list](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/1019-next-greater-node-in-linked-list) |
 | [1833-maximum-ice-cream-bars](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/1833-maximum-ice-cream-bars) |
 | [2109-adding-spaces-to-a-string](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/2109-adding-spaces-to-a-string) |
+| [2348-number-of-zero-filled-subarrays](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/2348-number-of-zero-filled-subarrays) |
 | [2553-separate-the-digits-in-an-array](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/2553-separate-the-digits-in-an-array) |
 | [2784-check-if-array-is-good](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/2784-check-if-array-is-good) |
 ## Greedy
@@ -135,6 +136,7 @@
 | [0202-happy-number](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/0202-happy-number) |
 | [0258-add-digits](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/0258-add-digits) |
 | [0445-add-two-numbers-ii](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/0445-add-two-numbers-ii) |
+| [2348-number-of-zero-filled-subarrays](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/2348-number-of-zero-filled-subarrays) |
 ## String
 |  |
 | ------- |
