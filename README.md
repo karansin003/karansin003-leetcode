@@ -204,6 +204,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/0009-palindrome-number) |
+| [0029-divide-two-integers](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/0029-divide-two-integers) |
 | [0048-rotate-image](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/0048-rotate-image) |
 | [0067-add-binary](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/0067-add-binary) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -342,6 +343,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/0067-add-binary) |
 ## Radix Sort
 |  |
