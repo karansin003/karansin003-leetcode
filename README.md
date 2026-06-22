@@ -45,6 +45,7 @@
 | [1394-find-lucky-integer-in-an-array](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1470-shuffle-the-array](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/1470-shuffle-the-array) |
+| [1672-richest-customer-wealth](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/1672-richest-customer-wealth) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1833-maximum-ice-cream-bars](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/1833-maximum-ice-cream-bars) |
@@ -262,6 +263,7 @@
 | [0048-rotate-image](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/0054-spiral-matrix) |
 | [0867-transpose-matrix](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/0867-transpose-matrix) |
+| [1672-richest-customer-wealth](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/1672-richest-customer-wealth) |
 ## Simulation
 |  |
 | ------- |
