@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/0054-spiral-matrix) |
 | [0217-contains-duplicate](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/0217-contains-duplicate) |
 | [0706-design-hashmap](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/0706-design-hashmap) |
 | [0867-transpose-matrix](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/0867-transpose-matrix) |
@@ -117,10 +118,12 @@
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/0054-spiral-matrix) |
 | [0867-transpose-matrix](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/0867-transpose-matrix) |
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/0054-spiral-matrix) |
 | [0258-add-digits](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/0258-add-digits) |
 | [0867-transpose-matrix](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/0867-transpose-matrix) |
 ## Hash Function
