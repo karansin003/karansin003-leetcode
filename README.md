@@ -34,6 +34,7 @@
 | [0896-monotonic-array](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/0896-monotonic-array) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1019-next-greater-node-in-linked-list](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/1019-next-greater-node-in-linked-list) |
+| [1394-find-lucky-integer-in-an-array](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1833-maximum-ice-cream-bars](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/1833-maximum-ice-cream-bars) |
 | [2109-adding-spaces-to-a-string](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/2109-adding-spaces-to-a-string) |
@@ -69,6 +70,7 @@
 | [0347-top-k-frequent-elements](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0692-top-k-frequent-words](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/0692-top-k-frequent-words) |
+| [1394-find-lucky-integer-in-an-array](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1833-maximum-ice-cream-bars](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/1833-maximum-ice-cream-bars) |
 ## Linked List
 |  |
@@ -141,6 +143,7 @@
 | [0705-design-hashset](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/0706-design-hashmap) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/0961-n-repeated-element-in-size-2n-array) |
+| [1394-find-lucky-integer-in-an-array](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2540-minimum-common-value](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/2540-minimum-common-value) |
 | [2784-check-if-array-is-good](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/2784-check-if-array-is-good) |
