@@ -102,6 +102,7 @@
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/0042-trapping-rain-water) |
 | [0155-min-stack](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/0234-palindrome-linked-list) |
@@ -122,6 +123,7 @@
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/0049-group-anagrams) |
 | [0205-isomorphic-strings](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/0242-valid-anagram) |
