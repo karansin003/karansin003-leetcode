@@ -9,6 +9,7 @@
 | [0049-group-anagrams](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/0054-spiral-matrix) |
 | [0128-longest-consecutive-sequence](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/0128-longest-consecutive-sequence) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0169-majority-element](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/0238-product-of-array-except-self) |
@@ -128,6 +129,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/0042-trapping-rain-water) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0234-palindrome-linked-list](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/0234-palindrome-linked-list) |
@@ -143,6 +145,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/0002-add-two-numbers) |
 | [0048-rotate-image](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/0048-rotate-image) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0202-happy-number](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/0202-happy-number) |
 | [0258-add-digits](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/0258-add-digits) |
 | [0445-add-two-numbers-ii](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/0445-add-two-numbers-ii) |
