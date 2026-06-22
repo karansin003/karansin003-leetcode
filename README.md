@@ -101,6 +101,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/0002-add-two-numbers) |
 | [0048-rotate-image](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/0048-rotate-image) |
+| [0258-add-digits](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/0258-add-digits) |
 | [0445-add-two-numbers-ii](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/0445-add-two-numbers-ii) |
 ## String
 |  |
@@ -120,9 +121,14 @@
 ## Simulation
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/0258-add-digits) |
 | [0867-transpose-matrix](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/0867-transpose-matrix) |
 ## Hash Function
 |  |
 | ------- |
 | [0706-design-hashmap](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/0706-design-hashmap) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
