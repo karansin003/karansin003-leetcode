@@ -70,6 +70,7 @@
 ## Design
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/0155-min-stack) |
 | [0707-design-linked-list](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/0707-design-linked-list) |
 ## Recursion
 |  |
@@ -82,6 +83,7 @@
 ## Stack
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/0234-palindrome-linked-list) |
 | [0445-add-two-numbers-ii](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/0445-add-two-numbers-ii) |
 | [1019-next-greater-node-in-linked-list](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/1019-next-greater-node-in-linked-list) |
