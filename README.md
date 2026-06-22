@@ -6,6 +6,7 @@
 | ------- |
 | [0048-rotate-image](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/0048-rotate-image) |
 | [0217-contains-duplicate](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/0217-contains-duplicate) |
+| [0867-transpose-matrix](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/0867-transpose-matrix) |
 | [1019-next-greater-node-in-linked-list](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/1019-next-greater-node-in-linked-list) |
 | [1833-maximum-ice-cream-bars](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/1833-maximum-ice-cream-bars) |
 ## Greedy
@@ -107,4 +108,9 @@
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/0048-rotate-image) |
+| [0867-transpose-matrix](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/0867-transpose-matrix) |
+## Simulation
+|  |
+| ------- |
+| [0867-transpose-matrix](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/0867-transpose-matrix) |
 <!---LeetCode Topics End-->
