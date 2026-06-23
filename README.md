@@ -112,6 +112,7 @@
 | ------- |
 | [0169-majority-element](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0383-ransom-note](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0692-top-k-frequent-words](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/0692-top-k-frequent-words) |
@@ -204,6 +205,7 @@
 | [0290-word-pattern](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/0290-word-pattern) |
 | [0347-top-k-frequent-elements](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0383-ransom-note](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/0451-sort-characters-by-frequency) |
@@ -309,6 +311,7 @@
 | [0290-word-pattern](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/0290-word-pattern) |
 | [0344-reverse-string](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/0345-reverse-vowels-of-a-string) |
+| [0383-ransom-note](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0394-decode-string](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/0394-decode-string) |
 | [0451-sort-characters-by-frequency](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/0451-sort-characters-by-frequency) |
