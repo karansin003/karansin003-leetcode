@@ -71,6 +71,7 @@
 | [2574-left-and-right-sum-differences](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/2574-left-and-right-sum-differences) |
 | [2784-check-if-array-is-good](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/2784-check-if-array-is-good) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
+| [3838-weighted-word-mapping](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/3838-weighted-word-mapping) |
 | [3956-maximum-sum-of-m-non-overlapping-subarrays-i](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/3956-maximum-sum-of-m-non-overlapping-subarrays-i) |
 | [3957-maximum-sum-of-m-non-overlapping-subarrays-ii](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/3957-maximum-sum-of-m-non-overlapping-subarrays-ii) |
 ## Greedy
@@ -291,6 +292,7 @@
 | [2109-adding-spaces-to-a-string](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/2109-adding-spaces-to-a-string) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3136-valid-word](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/3136-valid-word) |
+| [3838-weighted-word-mapping](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/3838-weighted-word-mapping) |
 | [3955-valid-binary-strings-with-cost-limit](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/3955-valid-binary-strings-with-cost-limit) |
 ## Queue
 |  |
@@ -319,6 +321,7 @@
 | [2109-adding-spaces-to-a-string](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/2109-adding-spaces-to-a-string) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2553-separate-the-digits-in-an-array](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/2553-separate-the-digits-in-an-array) |
+| [3838-weighted-word-mapping](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/3838-weighted-word-mapping) |
 ## Hash Function
 |  |
 | ------- |
