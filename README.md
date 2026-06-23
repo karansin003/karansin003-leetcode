@@ -14,6 +14,7 @@
 | [0048-rotate-image](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/0054-spiral-matrix) |
+| [0066-plus-one](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/0128-longest-consecutive-sequence) |
@@ -238,6 +239,7 @@
 | [0009-palindrome-number](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/0009-palindrome-number) |
 | [0029-divide-two-integers](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/0029-divide-two-integers) |
 | [0048-rotate-image](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/0048-rotate-image) |
+| [0066-plus-one](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/0067-add-binary) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0202-happy-number](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/0202-happy-number) |
