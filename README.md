@@ -137,6 +137,7 @@
 | [0707-design-linked-list](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/0707-design-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/0876-middle-of-the-linked-list) |
 | [1019-next-greater-node-in-linked-list](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/1019-next-greater-node-in-linked-list) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Two Pointers
 |  |
 | ------- |
@@ -164,6 +165,7 @@
 | [0876-middle-of-the-linked-list](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/0876-middle-of-the-linked-list) |
 | [1768-merge-strings-alternately](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/1768-merge-strings-alternately) |
 | [2109-adding-spaces-to-a-string](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/2109-adding-spaces-to-a-string) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2540-minimum-common-value](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/2540-minimum-common-value) |
 ## Hash Table
@@ -238,6 +240,7 @@
 | [0735-asteroid-collision](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/0739-daily-temperatures) |
 | [1019-next-greater-node-in-linked-list](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/1019-next-greater-node-in-linked-list) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Monotonic Stack
 |  |
 | ------- |
