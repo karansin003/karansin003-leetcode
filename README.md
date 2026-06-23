@@ -35,6 +35,7 @@
 | [0414-third-maximum-number](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/0414-third-maximum-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/0485-max-consecutive-ones) |
+| [0496-next-greater-element-i](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/0496-next-greater-element-i) |
 | [0525-contiguous-array](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0643-maximum-average-subarray-i](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/0643-maximum-average-subarray-i) |
@@ -202,6 +203,7 @@
 | [0387-first-unique-character-in-a-string](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/0451-sort-characters-by-frequency) |
+| [0496-next-greater-element-i](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/0496-next-greater-element-i) |
 | [0525-contiguous-array](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0692-top-k-frequent-words](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/0692-top-k-frequent-words) |
@@ -248,6 +250,7 @@
 | [0234-palindrome-linked-list](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/0234-palindrome-linked-list) |
 | [0394-decode-string](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/0394-decode-string) |
 | [0445-add-two-numbers-ii](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/0445-add-two-numbers-ii) |
+| [0496-next-greater-element-i](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/0496-next-greater-element-i) |
 | [0735-asteroid-collision](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/0739-daily-temperatures) |
 | [1019-next-greater-node-in-linked-list](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/1019-next-greater-node-in-linked-list) |
@@ -256,6 +259,7 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/0042-trapping-rain-water) |
+| [0496-next-greater-element-i](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/0739-daily-temperatures) |
 | [1019-next-greater-node-in-linked-list](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/1019-next-greater-node-in-linked-list) |
 ## Math
