@@ -29,6 +29,7 @@
 | [0238-product-of-array-except-self](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0347-top-k-frequent-elements](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/0414-third-maximum-number) |
@@ -159,6 +160,7 @@
 | [0202-happy-number](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/0349-intersection-of-two-arrays) |
@@ -350,6 +352,7 @@
 | [0035-search-insert-position](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/0035-search-insert-position) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0704-binary-search](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -441,6 +444,7 @@
 | [0067-add-binary](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0371-sum-of-two-integers](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/0371-sum-of-two-integers) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [3954-sum-of-compatible-numbers-in-range-i](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/3954-sum-of-compatible-numbers-in-range-i) |
