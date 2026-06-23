@@ -233,6 +233,7 @@
 | [1822-sign-of-the-product-of-an-array](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/1822-sign-of-the-product-of-an-array) |
 | [2348-number-of-zero-filled-subarrays](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/2348-number-of-zero-filled-subarrays) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## String
 |  |
 | ------- |
@@ -293,6 +294,7 @@
 | ------- |
 | [0042-trapping-rain-water](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/0042-trapping-rain-water) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Binary Search
 |  |
 | ------- |
@@ -378,4 +380,8 @@
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/0912-sort-an-array) |
+## Enumeration
+|  |
+| ------- |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 <!---LeetCode Topics End-->
