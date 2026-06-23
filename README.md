@@ -8,6 +8,7 @@
 | [0014-longest-common-prefix](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/0027-remove-element) |
+| [0035-search-insert-position](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/0035-search-insert-position) |
 | [0036-valid-sudoku](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/0036-valid-sudoku) |
 | [0042-trapping-rain-water](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/0048-rotate-image) |
@@ -307,6 +308,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/0035-search-insert-position) |
 | [0349-intersection-of-two-arrays](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0704-binary-search](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
