@@ -74,6 +74,7 @@
 | [2784-check-if-array-is-good](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/2784-check-if-array-is-good) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3838-weighted-word-mapping](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/3838-weighted-word-mapping) |
+| [3936-minimum-swaps-to-move-zeros-to-end](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/3936-minimum-swaps-to-move-zeros-to-end) |
 | [3940-limit-occurrences-in-sorted-array](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/3940-limit-occurrences-in-sorted-array) |
 | [3956-maximum-sum-of-m-non-overlapping-subarrays-i](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/3956-maximum-sum-of-m-non-overlapping-subarrays-i) |
 | [3957-maximum-sum-of-m-non-overlapping-subarrays-ii](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/3957-maximum-sum-of-m-non-overlapping-subarrays-ii) |
@@ -174,6 +175,7 @@
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2540-minimum-common-value](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/2540-minimum-common-value) |
+| [3936-minimum-swaps-to-move-zeros-to-end](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/3936-minimum-swaps-to-move-zeros-to-end) |
 | [3940-limit-occurrences-in-sorted-array](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/3940-limit-occurrences-in-sorted-array) |
 ## Hash Table
 |  |
