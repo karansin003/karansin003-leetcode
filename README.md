@@ -65,6 +65,7 @@
 | [2784-check-if-array-is-good](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/2784-check-if-array-is-good) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3956-maximum-sum-of-m-non-overlapping-subarrays-i](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/3956-maximum-sum-of-m-non-overlapping-subarrays-i) |
+| [3957-maximum-sum-of-m-non-overlapping-subarrays-ii](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/3957-maximum-sum-of-m-non-overlapping-subarrays-ii) |
 ## Greedy
 |  |
 | ------- |
@@ -278,6 +279,7 @@
 | [0225-implement-stack-using-queues](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0387-first-unique-character-in-a-string](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [3956-maximum-sum-of-m-non-overlapping-subarrays-i](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/3956-maximum-sum-of-m-non-overlapping-subarrays-i) |
+| [3957-maximum-sum-of-m-non-overlapping-subarrays-ii](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/3957-maximum-sum-of-m-non-overlapping-subarrays-ii) |
 ## Matrix
 |  |
 | ------- |
@@ -314,6 +316,7 @@
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3954-sum-of-compatible-numbers-in-range-i](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/3954-sum-of-compatible-numbers-in-range-i) |
 | [3956-maximum-sum-of-m-non-overlapping-subarrays-i](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/3956-maximum-sum-of-m-non-overlapping-subarrays-i) |
+| [3957-maximum-sum-of-m-non-overlapping-subarrays-ii](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/3957-maximum-sum-of-m-non-overlapping-subarrays-ii) |
 ## Binary Search
 |  |
 | ------- |
@@ -324,6 +327,7 @@
 | [0852-peak-index-in-a-mountain-array](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [2540-minimum-common-value](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/2540-minimum-common-value) |
 | [3956-maximum-sum-of-m-non-overlapping-subarrays-i](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/3956-maximum-sum-of-m-non-overlapping-subarrays-i) |
+| [3957-maximum-sum-of-m-non-overlapping-subarrays-ii](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/3957-maximum-sum-of-m-non-overlapping-subarrays-ii) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -333,6 +337,7 @@
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [2574-left-and-right-sum-differences](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/2574-left-and-right-sum-differences) |
 | [3956-maximum-sum-of-m-non-overlapping-subarrays-i](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/3956-maximum-sum-of-m-non-overlapping-subarrays-i) |
+| [3957-maximum-sum-of-m-non-overlapping-subarrays-ii](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/3957-maximum-sum-of-m-non-overlapping-subarrays-ii) |
 ## Tree
 |  |
 | ------- |
@@ -393,6 +398,7 @@
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [3956-maximum-sum-of-m-non-overlapping-subarrays-i](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/3956-maximum-sum-of-m-non-overlapping-subarrays-i) |
+| [3957-maximum-sum-of-m-non-overlapping-subarrays-ii](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/3957-maximum-sum-of-m-non-overlapping-subarrays-ii) |
 ## String Matching
 |  |
 | ------- |
@@ -427,4 +433,5 @@
 |  |
 | ------- |
 | [3956-maximum-sum-of-m-non-overlapping-subarrays-i](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/3956-maximum-sum-of-m-non-overlapping-subarrays-i) |
+| [3957-maximum-sum-of-m-non-overlapping-subarrays-ii](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/3957-maximum-sum-of-m-non-overlapping-subarrays-ii) |
 <!---LeetCode Topics End-->
