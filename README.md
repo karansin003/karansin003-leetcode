@@ -247,6 +247,7 @@
 | [0263-ugly-number](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/0263-ugly-number) |
 | [0371-sum-of-two-integers](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/0371-sum-of-two-integers) |
 | [0445-add-two-numbers-ii](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/0445-add-two-numbers-ii) |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1512-number-of-good-pairs](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/1512-number-of-good-pairs) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/1822-sign-of-the-product-of-an-array) |
 | [2348-number-of-zero-filled-subarrays](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/2348-number-of-zero-filled-subarrays) |
@@ -415,6 +416,7 @@
 | [0029-divide-two-integers](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/0067-add-binary) |
 | [0371-sum-of-two-integers](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/0371-sum-of-two-integers) |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [3954-sum-of-compatible-numbers-in-range-i](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/3954-sum-of-compatible-numbers-in-range-i) |
 | [3955-valid-binary-strings-with-cost-limit](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/3955-valid-binary-strings-with-cost-limit) |
 ## Radix Sort
