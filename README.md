@@ -37,6 +37,7 @@
 | [0724-find-pivot-index](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/0724-find-pivot-index) |
 | [0735-asteroid-collision](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/0739-daily-temperatures) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0867-transpose-matrix](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/0867-transpose-matrix) |
 | [0896-monotonic-array](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/0896-monotonic-array) |
 | [0912-sort-an-array](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/0912-sort-an-array) |
@@ -308,6 +309,7 @@
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0704-binary-search](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/0704-binary-search) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [2540-minimum-common-value](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/2540-minimum-common-value) |
 ## Prefix Sum
 |  |
