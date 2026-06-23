@@ -47,6 +47,7 @@
 | [0739-daily-temperatures](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/0739-daily-temperatures) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0867-transpose-matrix](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/0867-transpose-matrix) |
+| [0875-koko-eating-bananas](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/0875-koko-eating-bananas) |
 | [0896-monotonic-array](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/0896-monotonic-array) |
 | [0912-sort-an-array](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/0912-sort-an-array) |
 | [0930-binary-subarrays-with-sum](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/0930-binary-subarrays-with-sum) |
@@ -356,6 +357,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0704-binary-search](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
+| [0875-koko-eating-bananas](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/0875-koko-eating-bananas) |
 | [2540-minimum-common-value](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/2540-minimum-common-value) |
 | [3956-maximum-sum-of-m-non-overlapping-subarrays-i](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/3956-maximum-sum-of-m-non-overlapping-subarrays-i) |
 | [3957-maximum-sum-of-m-non-overlapping-subarrays-ii](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/3957-maximum-sum-of-m-non-overlapping-subarrays-ii) |
