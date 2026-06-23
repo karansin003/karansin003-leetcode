@@ -187,6 +187,7 @@
 | [2540-minimum-common-value](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/2540-minimum-common-value) |
 | [2784-check-if-array-is-good](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/2784-check-if-array-is-good) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/3120-count-the-number-of-special-characters-i) |
+| [3945-digit-frequency-score](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/3945-digit-frequency-score) |
 ## Design
 |  |
 | ------- |
@@ -244,6 +245,7 @@
 | [2348-number-of-zero-filled-subarrays](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/2348-number-of-zero-filled-subarrays) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
+| [3945-digit-frequency-score](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/3945-digit-frequency-score) |
 ## String
 |  |
 | ------- |
