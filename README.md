@@ -18,6 +18,7 @@
 | [0088-merge-sorted-array](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/0128-longest-consecutive-sequence) |
+| [0136-single-number](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/0136-single-number) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0164-maximum-gap](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/0164-maximum-gap) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -420,6 +421,7 @@
 | ------- |
 | [0029-divide-two-integers](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/0067-add-binary) |
+| [0136-single-number](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/0268-missing-number) |
 | [0371-sum-of-two-integers](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/0371-sum-of-two-integers) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
