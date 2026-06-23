@@ -304,6 +304,7 @@
 | [3120-count-the-number-of-special-characters-i](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3136-valid-word](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/3136-valid-word) |
 | [3612-process-string-with-special-operations-i](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/3612-process-string-with-special-operations-i) |
+| [3614-process-string-with-special-operations-ii](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/3614-process-string-with-special-operations-ii) |
 | [3838-weighted-word-mapping](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/3838-weighted-word-mapping) |
 | [3955-valid-binary-strings-with-cost-limit](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/3955-valid-binary-strings-with-cost-limit) |
 ## Queue
@@ -334,6 +335,7 @@
 | [2161-partition-array-according-to-given-pivot](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2553-separate-the-digits-in-an-array](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/2553-separate-the-digits-in-an-array) |
 | [3612-process-string-with-special-operations-i](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/3612-process-string-with-special-operations-i) |
+| [3614-process-string-with-special-operations-ii](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/3614-process-string-with-special-operations-ii) |
 | [3838-weighted-word-mapping](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/3838-weighted-word-mapping) |
 ## Hash Function
 |  |
