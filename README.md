@@ -214,6 +214,7 @@
 | [2540-minimum-common-value](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/2540-minimum-common-value) |
 | [2784-check-if-array-is-good](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/2784-check-if-array-is-good) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/3120-count-the-number-of-special-characters-i) |
+| [3941-password-strength](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/3941-password-strength) |
 | [3945-digit-frequency-score](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/3945-digit-frequency-score) |
 ## Design
 |  |
@@ -308,6 +309,7 @@
 | [3612-process-string-with-special-operations-i](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/3612-process-string-with-special-operations-i) |
 | [3614-process-string-with-special-operations-ii](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/3614-process-string-with-special-operations-ii) |
 | [3838-weighted-word-mapping](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/3838-weighted-word-mapping) |
+| [3941-password-strength](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/3941-password-strength) |
 | [3955-valid-binary-strings-with-cost-limit](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/3955-valid-binary-strings-with-cost-limit) |
 ## Queue
 |  |
