@@ -33,6 +33,7 @@
 | [0414-third-maximum-number](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/0414-third-maximum-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/0485-max-consecutive-ones) |
+| [0525-contiguous-array](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0643-maximum-average-subarray-i](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0692-top-k-frequent-words](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/0692-top-k-frequent-words) |
@@ -185,6 +186,7 @@
 | [0387-first-unique-character-in-a-string](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/0451-sort-characters-by-frequency) |
+| [0525-contiguous-array](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0692-top-k-frequent-words](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/0692-top-k-frequent-words) |
 | [0705-design-hashset](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/0705-design-hashset) |
@@ -347,6 +349,7 @@
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/0238-product-of-array-except-self) |
+| [0525-contiguous-array](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/0724-find-pivot-index) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
