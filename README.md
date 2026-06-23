@@ -58,6 +58,7 @@
 | [2348-number-of-zero-filled-subarrays](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/2348-number-of-zero-filled-subarrays) |
 | [2540-minimum-common-value](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/2540-minimum-common-value) |
 | [2553-separate-the-digits-in-an-array](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/2553-separate-the-digits-in-an-array) |
+| [2574-left-and-right-sum-differences](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/2574-left-and-right-sum-differences) |
 | [2784-check-if-array-is-good](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/2784-check-if-array-is-good) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 ## Greedy
@@ -313,6 +314,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/0724-find-pivot-index) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+| [2574-left-and-right-sum-differences](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/2574-left-and-right-sum-differences) |
 ## Tree
 |  |
 | ------- |
