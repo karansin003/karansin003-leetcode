@@ -48,6 +48,7 @@
 | [0724-find-pivot-index](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/0724-find-pivot-index) |
 | [0735-asteroid-collision](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/0739-daily-temperatures) |
+| [0817-linked-list-components](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/0817-linked-list-components) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0867-transpose-matrix](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/0867-transpose-matrix) |
 | [0875-koko-eating-bananas](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/0875-koko-eating-bananas) |
@@ -153,6 +154,7 @@
 | [0705-design-hashset](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/0706-design-hashmap) |
 | [0707-design-linked-list](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/0707-design-linked-list) |
+| [0817-linked-list-components](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/0817-linked-list-components) |
 | [0876-middle-of-the-linked-list](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/0876-middle-of-the-linked-list) |
 | [1019-next-greater-node-in-linked-list](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/1019-next-greater-node-in-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
@@ -226,6 +228,7 @@
 | [0692-top-k-frequent-words](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/0692-top-k-frequent-words) |
 | [0705-design-hashset](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/0706-design-hashmap) |
+| [0817-linked-list-components](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/0817-linked-list-components) |
 | [0930-binary-subarrays-with-sum](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/0930-binary-subarrays-with-sum) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1189-maximum-number-of-balloons](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/1189-maximum-number-of-balloons) |
