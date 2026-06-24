@@ -55,6 +55,7 @@
 | [0912-sort-an-array](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/0912-sort-an-array) |
 | [0930-binary-subarrays-with-sum](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/0930-binary-subarrays-with-sum) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/0961-n-repeated-element-in-size-2n-array) |
+| [1004-max-consecutive-ones-iii](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1019-next-greater-node-in-linked-list](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/1019-next-greater-node-in-linked-list) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/1394-find-lucky-integer-in-an-array) |
@@ -403,6 +404,7 @@
 | [0704-binary-search](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/0875-koko-eating-bananas) |
+| [1004-max-consecutive-ones-iii](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [2540-minimum-common-value](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/2540-minimum-common-value) |
 | [3956-maximum-sum-of-m-non-overlapping-subarrays-i](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/3956-maximum-sum-of-m-non-overlapping-subarrays-i) |
 | [3957-maximum-sum-of-m-non-overlapping-subarrays-ii](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/3957-maximum-sum-of-m-non-overlapping-subarrays-ii) |
@@ -415,6 +417,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/0724-find-pivot-index) |
 | [0930-binary-subarrays-with-sum](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/0930-binary-subarrays-with-sum) |
+| [1004-max-consecutive-ones-iii](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1480-running-sum-of-1d-array](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1732-find-the-highest-altitude](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/1732-find-the-highest-altitude) |
@@ -478,6 +481,7 @@
 | [0219-contains-duplicate-ii](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0643-maximum-average-subarray-i](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0930-binary-subarrays-with-sum](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/0930-binary-subarrays-with-sum) |
+| [1004-max-consecutive-ones-iii](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
