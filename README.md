@@ -172,6 +172,7 @@
 | [1171-remove-zero-sum-consecutive-nodes-from-linked-list](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/1171-remove-zero-sum-consecutive-nodes-from-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
+| [2487-remove-nodes-from-linked-list](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/2487-remove-nodes-from-linked-list) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/karansin003/karansin003-leetcode/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Two Pointers
@@ -282,6 +283,7 @@
 | [0206-reverse-linked-list](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/0234-palindrome-linked-list) |
 | [0394-decode-string](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/0394-decode-string) |
+| [2487-remove-nodes-from-linked-list](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/2487-remove-nodes-from-linked-list) |
 ## Stack
 |  |
 | ------- |
@@ -301,6 +303,7 @@
 | [1019-next-greater-node-in-linked-list](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/1019-next-greater-node-in-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2390-removing-stars-from-a-string](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/2390-removing-stars-from-a-string) |
+| [2487-remove-nodes-from-linked-list](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/2487-remove-nodes-from-linked-list) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -308,6 +311,7 @@
 | [0496-next-greater-element-i](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/0739-daily-temperatures) |
 | [1019-next-greater-node-in-linked-list](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/1019-next-greater-node-in-linked-list) |
+| [2487-remove-nodes-from-linked-list](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/2487-remove-nodes-from-linked-list) |
 ## Math
 |  |
 | ------- |
