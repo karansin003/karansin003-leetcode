@@ -154,6 +154,7 @@
 | [0234-palindrome-linked-list](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/0328-odd-even-linked-list) |
+| [0382-linked-list-random-node](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/0382-linked-list-random-node) |
 | [0445-add-two-numbers-ii](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/0445-add-two-numbers-ii) |
 | [0705-design-hashset](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/0706-design-hashmap) |
@@ -312,6 +313,7 @@
 | [0263-ugly-number](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/0268-missing-number) |
 | [0371-sum-of-two-integers](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/0371-sum-of-two-integers) |
+| [0382-linked-list-random-node](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/0382-linked-list-random-node) |
 | [0445-add-two-numbers-ii](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/0445-add-two-numbers-ii) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
@@ -561,4 +563,12 @@
 |  |
 | ------- |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
+## Reservoir Sampling
+|  |
+| ------- |
+| [0382-linked-list-random-node](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/0382-linked-list-random-node) |
+## Randomized
+|  |
+| ------- |
+| [0382-linked-list-random-node](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/0382-linked-list-random-node) |
 <!---LeetCode Topics End-->
