@@ -101,6 +101,7 @@
 | ------- |
 | [0049-group-anagrams](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/0088-merge-sorted-array) |
+| [0148-sort-list](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/0148-sort-list) |
 | [0164-maximum-gap](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/0164-maximum-gap) |
 | [0169-majority-element](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/0217-contains-duplicate) |
@@ -148,6 +149,7 @@
 | [0141-linked-list-cycle](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/0143-reorder-list) |
+| [0148-sort-list](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0203-remove-linked-list-elements](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/0206-reverse-linked-list) |
@@ -182,6 +184,7 @@
 | [0141-linked-list-cycle](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/0143-reorder-list) |
+| [0148-sort-list](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/0189-rotate-array) |
@@ -466,6 +469,7 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0912-sort-an-array](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/0912-sort-an-array) |
@@ -534,6 +538,7 @@
 ## Merge Sort
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/0148-sort-list) |
 | [0912-sort-an-array](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/0912-sort-an-array) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Enumeration
