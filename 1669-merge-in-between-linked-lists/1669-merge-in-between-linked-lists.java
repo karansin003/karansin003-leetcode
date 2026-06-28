@@ -21,11 +21,11 @@ class Solution {
             }
                 e1 = e1.next;
         }
+        s1.next = list2;
         while(e2.next != null )
         {
             e2 = e2.next;
         }
-        s1.next = list2;
         e2.next = e1;
         return list1;
     }
