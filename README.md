@@ -222,6 +222,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0392-is-subsequence](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/0392-is-subsequence) |
 | [0680-valid-palindrome-ii](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/0680-valid-palindrome-ii) |
+| [0844-backspace-string-compare](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/0844-backspace-string-compare) |
 | [0876-middle-of-the-linked-list](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/0876-middle-of-the-linked-list) |
 | [0917-reverse-only-letters](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/0917-reverse-only-letters) |
 | [1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
@@ -324,6 +325,7 @@
 | [0496-next-greater-element-i](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/0496-next-greater-element-i) |
 | [0735-asteroid-collision](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/0739-daily-temperatures) |
+| [0844-backspace-string-compare](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/0844-backspace-string-compare) |
 | [1019-next-greater-node-in-linked-list](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/1019-next-greater-node-in-linked-list) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1544-make-the-string-great](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/1544-make-the-string-great) |
@@ -395,6 +397,7 @@
 | [0709-to-lower-case](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/0709-to-lower-case) |
 | [0796-rotate-string](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/0796-rotate-string) |
 | [0819-most-common-word](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/0819-most-common-word) |
+| [0844-backspace-string-compare](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/0844-backspace-string-compare) |
 | [0917-reverse-only-letters](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/0917-reverse-only-letters) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1108-defanging-an-ip-address](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/1108-defanging-an-ip-address) |
@@ -442,6 +445,7 @@
 | [0067-add-binary](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/0258-add-digits) |
 | [0735-asteroid-collision](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/0735-asteroid-collision) |
+| [0844-backspace-string-compare](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/0844-backspace-string-compare) |
 | [0867-transpose-matrix](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/0867-transpose-matrix) |
 | [1929-concatenation-of-array](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/1929-concatenation-of-array) |
 | [2109-adding-spaces-to-a-string](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/2109-adding-spaces-to-a-string) |
