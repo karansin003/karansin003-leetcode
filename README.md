@@ -392,6 +392,7 @@
 | [1108-defanging-an-ip-address](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/1108-defanging-an-ip-address) |
 | [1189-maximum-number-of-balloons](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
+| [1678-goal-parser-interpretation](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/1678-goal-parser-interpretation) |
 | [1768-merge-strings-alternately](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/1768-merge-strings-alternately) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1859-sorting-the-sentence](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/1859-sorting-the-sentence) |
