@@ -505,6 +505,7 @@
 | [0268-missing-number](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0374-guess-number-higher-or-lower](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/0374-guess-number-higher-or-lower) |
 | [0704-binary-search](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/0875-koko-eating-bananas) |
@@ -661,4 +662,8 @@
 |  |
 | ------- |
 | [0382-linked-list-random-node](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/0382-linked-list-random-node) |
+## Interactive
+|  |
+| ------- |
+| [0374-guess-number-higher-or-lower](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/0374-guess-number-higher-or-lower) |
 <!---LeetCode Topics End-->
