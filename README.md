@@ -434,6 +434,7 @@
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2390-removing-stars-from-a-string](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/2390-removing-stars-from-a-string) |
 | [2710-remove-trailing-zeros-from-a-string](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/2710-remove-trailing-zeros-from-a-string) |
+| [2810-faulty-keyboard](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/2810-faulty-keyboard) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3136-valid-word](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/3136-valid-word) |
 | [3612-process-string-with-special-operations-i](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/3612-process-string-with-special-operations-i) |
@@ -473,6 +474,7 @@
 | [2181-merge-nodes-in-between-zeros](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/2181-merge-nodes-in-between-zeros) |
 | [2390-removing-stars-from-a-string](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/2390-removing-stars-from-a-string) |
 | [2553-separate-the-digits-in-an-array](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/2553-separate-the-digits-in-an-array) |
+| [2810-faulty-keyboard](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/2810-faulty-keyboard) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3612-process-string-with-special-operations-i](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/3612-process-string-with-special-operations-i) |
 | [3614-process-string-with-special-operations-ii](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/3614-process-string-with-special-operations-ii) |
