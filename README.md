@@ -152,6 +152,7 @@
 | [1704-determine-if-string-halves-are-alike](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/1704-determine-if-string-halves-are-alike) |
 | [1833-maximum-ice-cream-bars](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/1833-maximum-ice-cream-bars) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
+| [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Linked List
 |  |
@@ -286,6 +287,7 @@
 | [1512-number-of-good-pairs](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/1512-number-of-good-pairs) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
+| [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2540-minimum-common-value](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/2540-minimum-common-value) |
 | [2784-check-if-array-is-good](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/2784-check-if-array-is-good) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/3120-count-the-number-of-special-characters-i) |
@@ -422,6 +424,7 @@
 | [1832-check-if-the-sentence-is-pangram](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1859-sorting-the-sentence](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/1859-sorting-the-sentence) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
+| [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2000-reverse-prefix-of-word](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/2000-reverse-prefix-of-word) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
