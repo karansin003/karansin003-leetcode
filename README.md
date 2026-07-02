@@ -72,6 +72,7 @@
 | [1528-shuffle-string](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/1528-shuffle-string) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1672-richest-customer-wealth](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/1672-richest-customer-wealth) |
+| [1684-count-the-number-of-consistent-strings](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1732-find-the-highest-altitude](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/1732-find-the-highest-altitude) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1816-truncate-sentence](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/1816-truncate-sentence) |
@@ -151,6 +152,7 @@
 | [1221-split-a-string-in-balanced-strings](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1512-number-of-good-pairs](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/1512-number-of-good-pairs) |
+| [1684-count-the-number-of-consistent-strings](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1704-determine-if-string-halves-are-alike](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/1704-determine-if-string-halves-are-alike) |
 | [1833-maximum-ice-cream-bars](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/1833-maximum-ice-cream-bars) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
@@ -287,6 +289,7 @@
 | [1189-maximum-number-of-balloons](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1512-number-of-good-pairs](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/1512-number-of-good-pairs) |
+| [1684-count-the-number-of-consistent-strings](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
@@ -421,6 +424,7 @@
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1678-goal-parser-interpretation](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/1678-goal-parser-interpretation) |
+| [1684-count-the-number-of-consistent-strings](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1704-determine-if-string-halves-are-alike](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/1704-determine-if-string-halves-are-alike) |
 | [1768-merge-strings-alternately](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/1768-merge-strings-alternately) |
 | [1816-truncate-sentence](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/1816-truncate-sentence) |
@@ -623,6 +627,7 @@
 | [0371-sum-of-two-integers](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/0371-sum-of-two-integers) |
 | [0389-find-the-difference](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/0389-find-the-difference) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
+| [1684-count-the-number-of-consistent-strings](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/1684-count-the-number-of-consistent-strings) |
 | [3950-exactly-one-consecutive-set-bits-pair](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/3950-exactly-one-consecutive-set-bits-pair) |
 | [3954-sum-of-compatible-numbers-in-range-i](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/3954-sum-of-compatible-numbers-in-range-i) |
 | [3955-valid-binary-strings-with-cost-limit](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/3955-valid-binary-strings-with-cost-limit) |
