@@ -281,6 +281,7 @@
 | [0692-top-k-frequent-words](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/0692-top-k-frequent-words) |
 | [0705-design-hashset](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/0706-design-hashmap) |
+| [0771-jewels-and-stones](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/0771-jewels-and-stones) |
 | [0817-linked-list-components](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/0817-linked-list-components) |
 | [0819-most-common-word](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/0819-most-common-word) |
 | [0930-binary-subarrays-with-sum](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/0930-binary-subarrays-with-sum) |
@@ -411,6 +412,7 @@
 | [0680-valid-palindrome-ii](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/0680-valid-palindrome-ii) |
 | [0692-top-k-frequent-words](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/0692-top-k-frequent-words) |
 | [0709-to-lower-case](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/0709-to-lower-case) |
+| [0771-jewels-and-stones](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/0771-jewels-and-stones) |
 | [0796-rotate-string](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/0796-rotate-string) |
 | [0819-most-common-word](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/0819-most-common-word) |
 | [0844-backspace-string-compare](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/0844-backspace-string-compare) |
