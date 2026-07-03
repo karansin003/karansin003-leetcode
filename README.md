@@ -450,6 +450,7 @@
 | [2490-circular-sentence](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/2490-circular-sentence) |
 | [2710-remove-trailing-zeros-from-a-string](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/2710-remove-trailing-zeros-from-a-string) |
 | [2810-faulty-keyboard](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/2810-faulty-keyboard) |
+| [3019-number-of-changing-keys](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/3019-number-of-changing-keys) |
 | [3110-score-of-a-string](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/3110-score-of-a-string) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3136-valid-word](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/3136-valid-word) |
