@@ -88,6 +88,7 @@
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
+| [2185-counting-words-with-a-given-prefix](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/2185-counting-words-with-a-given-prefix) |
 | [2255-count-prefixes-of-a-given-string](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/2255-count-prefixes-of-a-given-string) |
 | [2348-number-of-zero-filled-subarrays](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/2348-number-of-zero-filled-subarrays) |
 | [2540-minimum-common-value](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/2540-minimum-common-value) |
@@ -450,6 +451,7 @@
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2124-check-if-all-as-appears-before-all-bs](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2129-capitalize-the-title](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/2129-capitalize-the-title) |
+| [2185-counting-words-with-a-given-prefix](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/2185-counting-words-with-a-given-prefix) |
 | [2255-count-prefixes-of-a-given-string](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/2255-count-prefixes-of-a-given-string) |
 | [2264-largest-3-same-digit-number-in-string](https://github.com/karansin003/karansin003-leetcode/tree/master/2264-largest-3-same-digit-number-in-string) |
 | [2390-removing-stars-from-a-string](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/2390-removing-stars-from-a-string) |
@@ -632,6 +634,7 @@
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0796-rotate-string](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/0796-rotate-string) |
 | [1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
+| [2185-counting-words-with-a-given-prefix](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/2185-counting-words-with-a-given-prefix) |
 ## Bit Manipulation
 |  |
 | ------- |
