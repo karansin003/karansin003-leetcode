@@ -455,6 +455,7 @@
 | [2185-counting-words-with-a-given-prefix](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/2185-counting-words-with-a-given-prefix) |
 | [2255-count-prefixes-of-a-given-string](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/2255-count-prefixes-of-a-given-string) |
 | [2264-largest-3-same-digit-number-in-string](https://github.com/karansin003/karansin003-leetcode/tree/master/2264-largest-3-same-digit-number-in-string) |
+| [2278-percentage-of-letter-in-string](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/2278-percentage-of-letter-in-string) |
 | [2390-removing-stars-from-a-string](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/2390-removing-stars-from-a-string) |
 | [2490-circular-sentence](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/2490-circular-sentence) |
 | [2710-remove-trailing-zeros-from-a-string](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/2710-remove-trailing-zeros-from-a-string) |
