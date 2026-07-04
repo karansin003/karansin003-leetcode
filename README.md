@@ -432,6 +432,7 @@
 | [1544-make-the-string-great](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/1544-make-the-string-great) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
+| [1668-maximum-repeating-substring](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/1668-maximum-repeating-substring) |
 | [1678-goal-parser-interpretation](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/1678-goal-parser-interpretation) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1704-determine-if-string-halves-are-alike](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/1704-determine-if-string-halves-are-alike) |
@@ -524,6 +525,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0392-is-subsequence](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/0392-is-subsequence) |
+| [1668-maximum-repeating-substring](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/1668-maximum-repeating-substring) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3954-sum-of-compatible-numbers-in-range-i](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/3954-sum-of-compatible-numbers-in-range-i) |
 | [3956-maximum-sum-of-m-non-overlapping-subarrays-i](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/3956-maximum-sum-of-m-non-overlapping-subarrays-i) |
@@ -634,6 +636,7 @@
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0796-rotate-string](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/0796-rotate-string) |
 | [1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
+| [1668-maximum-repeating-substring](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/1668-maximum-repeating-substring) |
 | [2185-counting-words-with-a-given-prefix](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/2185-counting-words-with-a-given-prefix) |
 ## Bit Manipulation
 |  |
