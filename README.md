@@ -94,6 +94,7 @@
 | [2540-minimum-common-value](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/2540-minimum-common-value) |
 | [2553-separate-the-digits-in-an-array](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/2553-separate-the-digits-in-an-array) |
 | [2574-left-and-right-sum-differences](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/2574-left-and-right-sum-differences) |
+| [2586-count-the-number-of-vowel-strings-in-range](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
 | [2784-check-if-array-is-good](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/2784-check-if-array-is-good) |
 | [2942-find-words-containing-character](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/2942-find-words-containing-character) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/karansin003/karansin003-leetcode/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
@@ -160,6 +161,7 @@
 | [1833-maximum-ice-cream-bars](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/1833-maximum-ice-cream-bars) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
+| [2586-count-the-number-of-vowel-strings-in-range](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Linked List
 |  |
@@ -458,6 +460,7 @@
 | [2278-percentage-of-letter-in-string](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/2278-percentage-of-letter-in-string) |
 | [2390-removing-stars-from-a-string](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/2390-removing-stars-from-a-string) |
 | [2490-circular-sentence](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/2490-circular-sentence) |
+| [2586-count-the-number-of-vowel-strings-in-range](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
 | [2710-remove-trailing-zeros-from-a-string](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/2710-remove-trailing-zeros-from-a-string) |
 | [2716-minimize-string-length](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/2716-minimize-string-length) |
 | [2810-faulty-keyboard](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/2810-faulty-keyboard) |
