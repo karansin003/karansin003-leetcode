@@ -40,6 +40,7 @@
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/0496-next-greater-element-i) |
+| [0500-keyboard-row](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/0500-keyboard-row) |
 | [0525-contiguous-array](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0643-maximum-average-subarray-i](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/0643-maximum-average-subarray-i) |
@@ -282,6 +283,7 @@
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0496-next-greater-element-i](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/0496-next-greater-element-i) |
+| [0500-keyboard-row](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/0500-keyboard-row) |
 | [0525-contiguous-array](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0692-top-k-frequent-words](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/0692-top-k-frequent-words) |
@@ -417,6 +419,7 @@
 | [0392-is-subsequence](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/0392-is-subsequence) |
 | [0394-decode-string](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/0394-decode-string) |
 | [0451-sort-characters-by-frequency](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/0451-sort-characters-by-frequency) |
+| [0500-keyboard-row](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/0500-keyboard-row) |
 | [0520-detect-capital](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/0520-detect-capital) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0657-robot-return-to-origin](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/0657-robot-return-to-origin) |
