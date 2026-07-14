@@ -607,6 +607,7 @@
 | ------- |
 | [0148-sort-list](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/0169-majority-element) |
+| [0191-number-of-1-bits](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/0191-number-of-1-bits) |
 | [0347-top-k-frequent-elements](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0912-sort-an-array](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/0912-sort-an-array) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -662,6 +663,7 @@
 | [0029-divide-two-integers](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/0136-single-number) |
+| [0191-number-of-1-bits](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/0191-number-of-1-bits) |
 | [0268-missing-number](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0371-sum-of-two-integers](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/0371-sum-of-two-integers) |
