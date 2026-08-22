@@ -44,6 +44,7 @@
 | [0500-keyboard-row](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/0500-keyboard-row) |
 | [0525-contiguous-array](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [0628-maximum-product-of-three-numbers](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0692-top-k-frequent-words](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/0692-top-k-frequent-words) |
 | [0704-binary-search](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/0704-binary-search) |
@@ -142,6 +143,7 @@
 | [0389-find-the-difference](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/0414-third-maximum-number) |
 | [0451-sort-characters-by-frequency](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/0451-sort-characters-by-frequency) |
+| [0628-maximum-product-of-three-numbers](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0692-top-k-frequent-words](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/0692-top-k-frequent-words) |
 | [0912-sort-an-array](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/0912-sort-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -400,6 +402,7 @@
 | [0371-sum-of-two-integers](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/0371-sum-of-two-integers) |
 | [0382-linked-list-random-node](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/0382-linked-list-random-node) |
 | [0445-add-two-numbers-ii](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/0445-add-two-numbers-ii) |
+| [0628-maximum-product-of-three-numbers](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0633-sum-of-square-numbers](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/0633-sum-of-square-numbers) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
