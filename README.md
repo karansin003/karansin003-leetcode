@@ -411,6 +411,7 @@
 | [2348-number-of-zero-filled-subarrays](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/2348-number-of-zero-filled-subarrays) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
+| [3622-check-divisibility-by-digit-sum-and-product](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3945-digit-frequency-score](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/3945-digit-frequency-score) |
