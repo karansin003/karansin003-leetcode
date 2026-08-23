@@ -155,6 +155,7 @@
 | [1859-sorting-the-sentence](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/1859-sorting-the-sentence) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2784-check-if-array-is-good](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/2784-check-if-array-is-good) |
+| [2785-sort-vowels-in-a-string](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/2785-sort-vowels-in-a-string) |
 | [3731-find-missing-elements](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/3731-find-missing-elements) |
 ## Counting Sort
 |  |
@@ -499,6 +500,7 @@
 | [2586-count-the-number-of-vowel-strings-in-range](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
 | [2710-remove-trailing-zeros-from-a-string](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/2710-remove-trailing-zeros-from-a-string) |
 | [2716-minimize-string-length](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/2716-minimize-string-length) |
+| [2785-sort-vowels-in-a-string](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/2785-sort-vowels-in-a-string) |
 | [2810-faulty-keyboard](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/2810-faulty-keyboard) |
 | [2942-find-words-containing-character](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/2942-find-words-containing-character) |
 | [3019-number-of-changing-keys](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/3019-number-of-changing-keys) |
