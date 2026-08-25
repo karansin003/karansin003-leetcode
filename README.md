@@ -109,6 +109,7 @@
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/karansin003/karansin003-leetcode/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/3731-find-missing-elements) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3838-weighted-word-mapping](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/3838-weighted-word-mapping) |
@@ -330,6 +331,7 @@
 | [3120-count-the-number-of-special-characters-i](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/karansin003/karansin003-leetcode/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/3731-find-missing-elements) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3941-password-strength](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/3941-password-strength) |
