@@ -66,6 +66,7 @@
 | [1019-next-greater-node-in-linked-list](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/1019-next-greater-node-in-linked-list) |
 | [1207-unique-number-of-occurrences](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/1207-unique-number-of-occurrences) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
@@ -148,6 +149,7 @@
 | [0628-maximum-product-of-three-numbers](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0692-top-k-frequent-words](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/0692-top-k-frequent-words) |
 | [0912-sort-an-array](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/0912-sort-an-array) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
@@ -260,6 +262,7 @@
 | [0844-backspace-string-compare](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/0844-backspace-string-compare) |
 | [0876-middle-of-the-linked-list](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/0876-middle-of-the-linked-list) |
 | [0917-reverse-only-letters](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/0917-reverse-only-letters) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [1768-merge-strings-alternately](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/1768-merge-strings-alternately) |
@@ -315,6 +318,7 @@
 | [1171-remove-zero-sum-consecutive-nodes-from-linked-list](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/1171-remove-zero-sum-consecutive-nodes-from-linked-list) |
 | [1189-maximum-number-of-balloons](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [1207-unique-number-of-occurrences](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/1207-unique-number-of-occurrences) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1512-number-of-good-pairs](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/1512-number-of-good-pairs) |
@@ -592,6 +596,7 @@
 | [0852-peak-index-in-a-mountain-array](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/0875-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/1004-max-consecutive-ones-iii) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [2540-minimum-common-value](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/2540-minimum-common-value) |
 | [3956-maximum-sum-of-m-non-overlapping-subarrays-i](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/3956-maximum-sum-of-m-non-overlapping-subarrays-i) |
 | [3957-maximum-sum-of-m-non-overlapping-subarrays-ii](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/3957-maximum-sum-of-m-non-overlapping-subarrays-ii) |
