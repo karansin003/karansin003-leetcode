@@ -3,12 +3,7 @@ class Solution {
         HashSet<Integer> set = new HashSet<>();
         for(int n : arr)
         {
-            if(set.contains(2 * n))
-            {
-                return true;
-            }
-
-            if(n % 2 == 0 && set.contains(n / 2))
+            if(set.contains(2 * n) || n % 2 == 0 && set.contains(n / 2))
             {
                 return true;
             }
