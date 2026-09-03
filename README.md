@@ -28,6 +28,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/0189-rotate-array) |
+| [0204-count-primes](https://github.com/karansin003/karansin003-leetcode/tree/master/0204-count-primes) |
 | [0217-contains-duplicate](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/0238-product-of-array-except-self) |
@@ -407,6 +408,7 @@
 | [0150-evaluate-reverse-polish-notation](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/0202-happy-number) |
+| [0204-count-primes](https://github.com/karansin003/karansin003-leetcode/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/0268-missing-number) |
@@ -567,6 +569,7 @@
 ## Number Theory
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/karansin003/karansin003-leetcode/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/0258-add-digits) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
@@ -726,6 +729,7 @@
 ## Enumeration
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/karansin003/karansin003-leetcode/tree/master/0204-count-primes) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3954-sum-of-compatible-numbers-in-range-i](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/3954-sum-of-compatible-numbers-in-range-i) |
 | [3955-valid-binary-strings-with-cost-limit](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/3955-valid-binary-strings-with-cost-limit) |
@@ -762,4 +766,16 @@
 |  |
 | ------- |
 | [0374-guess-number-higher-or-lower](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/0374-guess-number-higher-or-lower) |
+## Primality Test
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/karansin003/karansin003-leetcode/tree/master/0204-count-primes) |
+## Sieve Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/karansin003/karansin003-leetcode/tree/master/0204-count-primes) |
+## Prime Number Sieve
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/karansin003/karansin003-leetcode/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
