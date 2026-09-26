@@ -67,6 +67,7 @@
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1019-next-greater-node-in-linked-list](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/1019-next-greater-node-in-linked-list) |
+| [1051-height-checker](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/1051-height-checker) |
 | [1207-unique-number-of-occurrences](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/1207-unique-number-of-occurrences) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
@@ -158,6 +159,7 @@
 | [0645-set-mismatch](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/0645-set-mismatch) |
 | [0692-top-k-frequent-words](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/0692-top-k-frequent-words) |
 | [0912-sort-an-array](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/0912-sort-an-array) |
+| [1051-height-checker](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/1051-height-checker) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -180,6 +182,7 @@
 | [0692-top-k-frequent-words](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/0692-top-k-frequent-words) |
 | [0819-most-common-word](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/0819-most-common-word) |
 | [0912-sort-an-array](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/0912-sort-an-array) |
+| [1051-height-checker](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/1051-height-checker) |
 | [1189-maximum-number-of-balloons](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -796,4 +799,8 @@
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/karansin003/karansin003-leetcode/tree/master/0204-count-primes) |
+## Bubble Sort
+|  |
+| ------- |
+| [1051-height-checker](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/1051-height-checker) |
 <!---LeetCode Topics End-->
