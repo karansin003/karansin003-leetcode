@@ -482,6 +482,7 @@
 | [0796-rotate-string](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/0796-rotate-string) |
 | [0804-unique-morse-code-words](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/0804-unique-morse-code-words) |
 | [0819-most-common-word](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/0819-most-common-word) |
+| [0824-goat-latin](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/0824-goat-latin) |
 | [0844-backspace-string-compare](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/0844-backspace-string-compare) |
 | [0917-reverse-only-letters](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/0917-reverse-only-letters) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
