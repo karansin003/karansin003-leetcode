@@ -45,6 +45,7 @@
 | [0500-keyboard-row](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/0500-keyboard-row) |
 | [0525-contiguous-array](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [0575-distribute-candies](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/0575-distribute-candies) |
 | [0628-maximum-product-of-three-numbers](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0645-set-mismatch](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/0645-set-mismatch) |
@@ -319,6 +320,7 @@
 | [0500-keyboard-row](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/0500-keyboard-row) |
 | [0525-contiguous-array](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [0575-distribute-candies](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/0575-distribute-candies) |
 | [0645-set-mismatch](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/0645-set-mismatch) |
 | [0692-top-k-frequent-words](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/0692-top-k-frequent-words) |
 | [0705-design-hashset](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/0705-design-hashset) |
