@@ -14,9 +14,12 @@ class Solution {
                 {
                     return false;
                 }
-                char top = st.pop();
-                if( (ch ==')'&& top != '(')||(ch =='}'&& top != '{')||(ch ==']'&& top != '['))
+                char top = st.peek();
+                if( (ch ==')'&& top == '(')||(ch =='}'&& top == '{')||(ch ==']'&& top == '['))
                 {
+                    st.pop();
+                }
+                else{
                     return false;
                 }
             }
