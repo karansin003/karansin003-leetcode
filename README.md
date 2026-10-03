@@ -113,6 +113,7 @@
 | [2586-count-the-number-of-vowel-strings-in-range](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
 | [2784-check-if-array-is-good](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/2784-check-if-array-is-good) |
 | [2942-find-words-containing-character](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/2942-find-words-containing-character) |
+| [3005-count-elements-with-maximum-frequency](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/karansin003/karansin003-leetcode/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
@@ -197,6 +198,7 @@
 | [2206-divide-array-into-equal-pairs](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/2206-divide-array-into-equal-pairs) |
 | [2351-first-letter-to-appear-twice](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/2351-first-letter-to-appear-twice) |
 | [2586-count-the-number-of-vowel-strings-in-range](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
+| [3005-count-elements-with-maximum-frequency](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Linked List
 |  |
@@ -350,6 +352,7 @@
 | [2540-minimum-common-value](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/2540-minimum-common-value) |
 | [2716-minimize-string-length](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/2716-minimize-string-length) |
 | [2784-check-if-array-is-good](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/2784-check-if-array-is-good) |
+| [3005-count-elements-with-maximum-frequency](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/karansin003/karansin003-leetcode/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
