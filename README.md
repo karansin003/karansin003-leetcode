@@ -112,6 +112,7 @@
 | [2553-separate-the-digits-in-an-array](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/2553-separate-the-digits-in-an-array) |
 | [2574-left-and-right-sum-differences](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/2574-left-and-right-sum-differences) |
 | [2586-count-the-number-of-vowel-strings-in-range](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2784-check-if-array-is-good](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/2784-check-if-array-is-good) |
 | [2942-find-words-containing-character](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/2942-find-words-containing-character) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/3005-count-elements-with-maximum-frequency) |
@@ -766,6 +767,7 @@
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/karansin003/karansin003-leetcode/tree/master/0204-count-primes) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3954-sum-of-compatible-numbers-in-range-i](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/3954-sum-of-compatible-numbers-in-range-i) |
 | [3955-valid-binary-strings-with-cost-limit](https://github.com/karansin003/https-github.com-karansin003-leetcode/tree/master/3955-valid-binary-strings-with-cost-limit) |
